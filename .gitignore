@@ -1,0 +1,7 @@
+# Ignorar entornos virtuales y basura de Python
+backend/venv/
+venv/
+__pycache__/
+
+# Ignorar las dependencias súper pesadas de Node.js
+frontend/node_modules/
